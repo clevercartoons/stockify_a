@@ -1,0 +1,27 @@
+DOkANS v1.2.3 Update Documentation
+
+
+// ------------------------------------- //
+
+1) How To Update
+
+
+- replace OrderController.php from root\script\app\Http\Controllers\Seller
+- replace site_settings.blade.php from root\script\resources\views\admin\settings
+- replace seo.blade.php from files\script\resources\views\seller\store
+
+
+
+
+// ------------------------------------- //
+
+you will get every resource from update directory.
+if you're facing any problems, please contact with us we will help u :) 
+
+Created: 18 March 21
+Last Update: 4 April 21
+By: AMCoders
+Email: amcoders360@gmail.com
+
+
+Copyright © 2021 dokans All rights reserved

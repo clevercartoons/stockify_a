@@ -1,0 +1,28 @@
+DOkANS v1.2.4 Update Documentation
+
+
+// ------------------------------------- //
+
+1) How To Update
+
+- replace CartController.php from  root\script\app\Http\Controllers\Frontend
+
+- replace OrderController.php from root\script\app\Http\Controllers\Seller
+
+- upload v1.2.4 from root
+
+
+// ------------------------------------- //
+
+you will get every resource from update directory.
+if you're facing any problems, please contact with us we will help u :) 
+
+Created: 18 March 21
+Last Update: 8 April 21
+By: AMCoders
+Email: amcoders360@gmail.com
+
+
+Copyright © 2021 dokans All rights reserved
+
+

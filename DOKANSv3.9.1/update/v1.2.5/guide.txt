@@ -1,0 +1,28 @@
+DOkANS v1.2.5 Update Documentation
+
+
+// ------------------------------------- //
+
+1) How To Update
+
+- replace InventoryController.php from  root\script\app\Http\Controllers\Seller
+
+- replace frontend folder from root\script\resources\views
+
+- remove v1.2.4 and upload v1.2.5 from root
+
+
+// ------------------------------------- //
+
+you will get every resource from update directory.
+if you're facing any problems, please contact with us we will help u :) 
+
+Created: 18 March 21
+Last Update: 10 April 21
+By: AMCoders
+Email: amcoders360@gmail.com
+
+
+Copyright © 2021 dokans All rights reserved
+
+

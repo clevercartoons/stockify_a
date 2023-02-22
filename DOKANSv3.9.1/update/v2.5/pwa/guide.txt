@@ -1,0 +1,19 @@
+replace general.blade.php from root\script\resources\views\seller\settings
+
+replace load_header.blade.php from root\script\resources\views\components
+
+replace load_footer.blade.php from root\script\resources\views\components
+
+SettingController.php from root\script\app\Http\Controllers\Seller
+
+upload sw.js from root
+
+go to root/script/script/routes
+open web.php file append this code in line no 4
+
+Route::get('/pwa',function(){
+   return redirect('/'); 
+});
+
+
+https://www.youtube.com/watch?v=JndEbptPcYY

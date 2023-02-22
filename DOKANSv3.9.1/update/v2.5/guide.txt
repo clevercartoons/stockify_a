@@ -1,0 +1,39 @@
+DOkANS v2.5 Update Documentation
+
+
+// ------------------------------------- //
+
+1) How To Update
+
+- replace app folder from  root\script
+
+- replace frontend folder from root\script\resources\views
+
+- replace variants.blade.php from root\script\resources\views\seller\products\edit
+
+- replace app.blade.php from root\script\resources\views\layouts
+
+- shop.js from 
+          root\frontend\arafa-cart\js
+	  root\frontend\bazar\js
+          root\frontend\saka-cart\js
+
+- PWA update open the pwa folder follow the guide
+
+
+//if you are extended users please mail us after update the script for automatic subdomain
+
+
+// ------------------------------------- //
+
+you will get every resource from update directory.
+
+Created: 18 March 21
+Last Update: 21 May 21
+By: AMCoders
+Email: amcoders360@gmail.com
+
+
+Copyright © 2021 dokans All rights reserved
+
+

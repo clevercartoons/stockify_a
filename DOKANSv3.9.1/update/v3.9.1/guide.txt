@@ -1,0 +1,31 @@
+DOkANS v3.9.1 Update Documentation
+
+Note:
+
+Backup everything before update the version
+
+// ------------------------------------- //
+
+1) How To Update
+
+Note: please check the path properly before replacing any file
+
+
+- replace BrandController.php from  dokans/script/app/Http/Controllers/Seller to YOUR_WEBROOT/script/app/Http/Controllers/Seller
+
+- replace ProductmediaController.php from  dokans/script/app/Http/Controllers/Seller to YOUR_WEBROOT/script/app/Http/Controllers/Seller
+
+
+
+// ------------------------------------- //
+
+you will get every resource from update directory.
+
+
+Created: 18 March 21
+Last Update: 5 Jan 23
+By: AMCoders
+Email: amcoders360@gmail.com
+
+
+Copyright © 2023 dokans All rights reserved

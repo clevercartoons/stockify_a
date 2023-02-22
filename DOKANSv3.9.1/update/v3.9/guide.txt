@@ -1,0 +1,49 @@
+DOkANS v3.9 Update Documentation
+
+Note:
+
+Backup everything before update the version
+
+// ------------------------------------- //
+
+1) How To Update
+
+Note: please check the path properly before replacing any file
+
+
+
+//helper file
+- replace helper.php from script/app/Helper/helper.php
+
+//main site
+- replace app.blade.php from dokans/script/resources/views/layouts/app.blade.php to YOUR_WEBROOT/script/resources/views/layouts
+
+- replace app.blade.php from dokans/script/resources/views/main/app.blade.php  to YOUR_WEBROOT/script/resources/views/main/
+
+- replace register.blade.php from dokans/script/resources/views/marchant/register.blade.php to YOUR_WEBROOT/script/resources/views/marchant/
+
+//for theme
+- replace app.blade.php from  dokans/script/resources/views/frontend/arafa-cart/layouts/app.blade.php to YOUR_WEBROOT/script/resources/views/frontend/arafa-cart/layouts
+
+- replace app.blade.php from  dokans/script/resources/views/frontend/bazar/layouts/app.blade.php to YOUR_WEBROOT/script/resources/views/frontend/bazar/layouts 
+
+- replace app.blade.php from  dokans/script/resources/views/frontend/bigbag/layouts/app.blade.php to YOUR_WEBROOT/script/resources/views/frontend/bigbag/layouts
+
+- replace app.blade.php from  dokans/script/resources/views/frontend/saka-cart/layouts/app.blade.php to YOUR_WEBROOT/script/resources/views/frontend/saka-cart/layouts
+
+
+
+
+
+// ------------------------------------- //
+
+you will get every resource from update directory.
+
+
+Created: 18 March 21
+Last Update: 29 Nov 22
+By: AMCoders
+Email: amcoders360@gmail.com
+
+
+Copyright © 2022 dokans All rights reserved

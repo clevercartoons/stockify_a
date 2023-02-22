@@ -1,0 +1,35 @@
+DOkANS v2.6 Update Documentation
+
+Note:
+
+This update is just for who is using v2.0, if you're still using older verisons, PLEASE UPDATE the script version by version.
+
+// ------------------------------------- //
+
+1) How To Update
+
+Note: please check the path properly before replacing any file
+
+
+- replace Auth folder from root\script\app\Http\Controllers
+- replace Helpers folder from root\script\app
+- replace CustomerMiddleware.php from root\script\app\Http\Middleware
+- replace RedirectIfAuthenticated.php from root\script\app\Http\Middleware
+- replace SellerMiddleware.php from root\script\app\Http\Middleware
+- replace helper.php from root\script\app\Helper
+
+
+
+
+// ------------------------------------- //
+
+you will get every resource from update directory.
+if you're facing any problems, please contact with us we will help u :) 
+
+Created: 14 June 21
+Last Update: 19 March 21
+By: AMCoders
+Email: amcoders360@gmail.com
+
+
+Copyright © 2021 dokans All rights reserved

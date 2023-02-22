@@ -1,0 +1,42 @@
+DOkANS v3.5 Update Documentation
+
+Note:
+
+This update is just for who is using v3.0.
+
+// ------------------------------------- //
+
+1) How To Update
+
+Note: please check the path properly before replacing any file
+
+
+- upload errors to root\script\resources\views\
+- replace helper.php from root\script\app\Helper\
+- replace CronController.php from root\script\app\Http\Controllers\
+- replace Frontend/FrontendController.php from root\script\app\Http\Controllers\Frontend\
+- replace FrontendController.php from root\script\app\Http\Controllers\
+- replace PlanController.php from root\script\app\Http\Controllers\Seller\
+- replace ProductController.php from root\script\app\Http\Controllers\Seller\
+- replace register.blade.php from root\script\resources\views\marchant\
+- replace general.blade.php from root\script\resources\views\seller\settings\
+- replace seo.blade.php from root\script\resources\views\seller\store\
+- replace app.blade.php from root\script\resources\views\layouts\
+
+
+
+
+
+
+// ------------------------------------- //
+
+you will get every resource from update directory.
+
+
+Created: 18 March 21
+Last Update: 25 April 22
+By: AMCoders
+Email: amcoders360@gmail.com
+
+
+Copyright © 2022 dokans All rights reserved
